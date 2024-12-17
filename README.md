@@ -1,6 +1,6 @@
 # 🧬 Game of Life (React/Redux-Toolkit + TypeScript)
 
-Welcome to the **Game of Life**! This project implements John Conway's classic **cellular automaton**, known as the Game of Life, using **React**, **Redux-Toolkit**, and **TypeScript**. It provides an interactive and user-friendly interface for exploring the simulation.
+This project implements John Conway's classic **cellular automaton**, known as the Game of Life, using **React**, **Redux-Toolkit**, and **TypeScript**. It provides an interactive and user-friendly interface for exploring the simulation.
 
 ## 🚀 Features
 
