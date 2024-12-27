@@ -62,3 +62,7 @@ Open the app in your browser at `http://localhost:5173`.
 - Use the **controls** to interact with the simulation (play, pause, clear, etc.).
 - Adjust the grid size and speed for a more dynamic or relaxed simulation.
 - Explore the random **Seed** feature for new starting patterns.
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
